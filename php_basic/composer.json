@@ -1,0 +1,11 @@
+{
+    "name": "vendor/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DuyKhanh911",
+            "email": "phamkhanh025@gmail.com"
+        }
+    ],
+    "require": {}
+}
